@@ -12,7 +12,7 @@
 git clone https://github.com/chacklong/LotteryPredictionSystem.git
 ```
 ### 项目结构:
-[
+```
     LotteryPredictionSystem/
 │
 ├── app/                # 应用主目录
@@ -36,8 +36,7 @@ git clone https://github.com/chacklong/LotteryPredictionSystem.git
 ├── .gitignore          # Git忽略文件
 ├── README.md           # 项目说明文件
 └── requirements.txt    # 依赖列表
-
-]
+```
 
 ### demo 3: FastApi 接口服务
 
