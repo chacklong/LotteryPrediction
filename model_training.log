@@ -1,0 +1,65 @@
+2024-05-07 20:11:34,895 - INFO - Loading data from app/data/test\LOTTERY_LIST_2024_04_22_101842.csv...
+2024-05-07 20:11:34,944 - INFO - Data prepared for training.
+2024-05-07 20:11:34,958 - INFO - Data split into train and test sets.
+2024-05-07 20:11:35,130 - INFO - Model trained successfully with accuracy: 0.2222222222222222
+2024-05-07 20:11:35,130 - INFO - Classification Report for LOTTERY_LIST_2024_04_22_101842.csv: 
+              precision    recall  f1-score   support
+
+           1       0.25      1.00      0.40         1
+           2       1.00      0.00      0.00         2
+           3       1.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+           5       1.00      0.00      0.00         2
+           8       1.00      1.00      1.00         1
+           9       0.00      1.00      0.00         0
+          13       0.00      1.00      0.00         0
+          15       1.00      0.00      0.00         1
+
+    accuracy                           0.22         9
+   macro avg       0.58      0.44      0.16         9
+weighted avg       0.81      0.22      0.16         9
+
+2024-05-07 20:11:35,131 - INFO - Loading data from app/data/test\LOTTERY_LIST_2024_04_22_130528.csv...
+2024-05-07 20:11:35,140 - INFO - Data prepared for training.
+2024-05-07 20:11:35,143 - INFO - Data split into train and test sets.
+2024-05-07 20:11:35,319 - INFO - Model trained successfully with accuracy: 0.2222222222222222
+2024-05-07 20:11:35,320 - INFO - Classification Report for LOTTERY_LIST_2024_04_22_130528.csv: 
+              precision    recall  f1-score   support
+
+           1       0.25      1.00      0.40         1
+           2       1.00      0.00      0.00         2
+           3       1.00      0.00      0.00         1
+           4       0.00      0.00      0.00         1
+           5       1.00      0.00      0.00         2
+           8       1.00      1.00      1.00         1
+           9       0.00      1.00      0.00         0
+          13       0.00      1.00      0.00         0
+          15       1.00      0.00      0.00         1
+
+    accuracy                           0.22         9
+   macro avg       0.58      0.44      0.16         9
+weighted avg       0.81      0.22      0.16         9
+
+2024-05-07 20:11:35,321 - INFO - Loading data from app/data/test\LOTTERY_LIST_2024_04_27_154506.csv...
+2024-05-07 20:11:35,330 - INFO - Data prepared for training.
+2024-05-07 20:11:35,334 - INFO - Data split into train and test sets.
+2024-05-07 20:11:35,529 - INFO - Model trained successfully with accuracy: 0.0
+2024-05-07 20:11:35,530 - INFO - Classification Report for LOTTERY_LIST_2024_04_27_154506.csv: 
+              precision    recall  f1-score   support
+
+           3       0.00      1.00      0.00       0.0
+           4       1.00      0.00      0.00       2.0
+           5       0.00      1.00      0.00       0.0
+           7       1.00      0.00      0.00       1.0
+           8       1.00      0.00      0.00       1.0
+           9       0.00      0.00      0.00       1.0
+          13       0.00      1.00      0.00       0.0
+          15       1.00      0.00      0.00       1.0
+          17       1.00      0.00      0.00       1.0
+          19       1.00      0.00      0.00       1.0
+          23       1.00      0.00      0.00       1.0
+
+    accuracy                           0.00       9.0
+   macro avg       0.64      0.27      0.00       9.0
+weighted avg       0.89      0.00      0.00       9.0
+
